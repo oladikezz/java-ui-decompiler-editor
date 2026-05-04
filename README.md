@@ -31,5 +31,5 @@
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/oladikezz/java-ui-decompiler-editor.git](https://github.com/oladikezz/java-ui-decompiler-editor.git)
+git clone [https://github.com/oladikezz/java-ui-decompiler-editor.git]
 cd java-ui-decompiler-editor
